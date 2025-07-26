@@ -2,13 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2dff,100:00c4ff&height=200&section=header&text=Joshi86%20&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h2 align="center">Olá, eu sou o Joshi. Bem-vindo ao meu perfil! 👋</h2>
+<h2 align="center">Olá, eu sou o Joshi. Bem-vindo ao meu perfil! <img src="https://github.com/user-attachments/assets/7a6d3dd9-b785-4905-8fb7-f3e49ee4a19f"
+width="60"/> </h2>
 
 <p align="center">Desenvolvedor Web com foco em Angular, Node.js e APIs.</p>
 
 ---
-
-<img src="https://github.com/user-attachments/assets/7a6d3dd9-b785-4905-8fb7-f3e49ee4a19f"/>
 
 ### 🧠 Sobre mim
 
