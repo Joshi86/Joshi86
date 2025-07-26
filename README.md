@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2dff,100:00c4ff&height=200&section=header&text=Joshi86%20🚀&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2dff,100:00c4ff&height=200&section=header&text=Joshi86%20&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Olá, eu sou o Joshi. Bem-vindo ao meu perfil! 👋</h2>
@@ -19,7 +19,7 @@
 ### 🔥 Destaque: Projeto Final Ford-Enter
 
 📌 **Desafio Angular - PROJETO FINAL**  
-Um site de venda de carros desenvolvido com ANGULAR, com Login, Responsividade, pedidos e integração com API:
+Um site de venda de carros desenvolvido em ANGULAR, com login, responsividade, pedidos e integração com API:
 
 🔗 [Acesse o projeto no GitHub](https://github.com/Joshi86/Desafio-Angular-PROJETO-FINAL)
 
