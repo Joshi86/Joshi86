@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2dff,100:00c4ff&height=200&section=header&text=Joshi86%20&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2dff,100:00c4ff&height=200&section=header&text=Joshi%20&fontSize=40&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Olá, eu sou o Joshi. Bem-vindo ao meu perfil!</h2>
@@ -31,14 +31,8 @@ Uma site focado em venda de veículos importados desenvolvido em ANGULAR, com lo
 <p align="center">
   <img src="https://github.com/Joshi86/Desafio-Angular-PROJETO-FINAL/raw/main/preview.gif" width="600"/>
 </p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/e7e68746-b744-4ed4-be60-421335a23909"width="100"/>
-</p>
 
 ---
-
-
-
 
 ### ⚙️ Tecnologias & Ferramentas
 
