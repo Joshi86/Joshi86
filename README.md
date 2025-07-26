@@ -23,7 +23,8 @@
 
 ### 🔥 Destaque: Projeto Final Ford-Enter
 
-📌 **Desafio Angular - PROJETO FINAL**  
+📌 **Desafio Angular - PROJETO FINAL**
+
 Uma site focado em venda de veículos importados desenvolvido em ANGULAR, com login, responsividade, pedidos e integração com API:
 
 🔗 [Acesse o projeto no GitHub](https://github.com/Joshi86/Desafio-Angular-PROJETO-FINAL)
