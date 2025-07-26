@@ -59,8 +59,8 @@ Uma site focado em venda de veículos importados desenvolvido em ANGULAR, com lo
 ### 📫 Contato
 
 - ✉️ Email: **josielbr1032@gmail.com**  
-- 🌐 Projeto em destaque: [Desafio Angular Final](https://github.com/Joshi86/Desafio-Angular-PROJETO-FINAL)
 - 🧑‍💼 Linkedin:(https://www.linkedin.com/in/josiel-santana-b712a0335?utm_source=share)
+- 🌐 Projeto em destaque: [Desafio Angular Final](https://github.com/Joshi86/Desafio-Angular-PROJETO-FINAL)
 
 ---
 
