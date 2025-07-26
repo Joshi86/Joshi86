@@ -8,6 +8,8 @@
 
 ---
 
+<img src="https://github.com/user-attachments/assets/7a6d3dd9-b785-4905-8fb7-f3e49ee4a19f"/>
+
 ### 🧠 Sobre mim
 
 - 🔭 Finalizei meu projeto no curso **Ford-Enter**
