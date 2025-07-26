@@ -9,7 +9,7 @@
 
 
 
-<p align="center">Desenvolvedor Web com foco em Angular, Node.js e Typescript.</p>
+<p align="center">Progamador Web com foco em Angular, Node.js e Typescript.</p>
 
 ---
 
