@@ -5,7 +5,9 @@
 <h2 align="center">Olá, eu sou o Joshi. Bem-vindo ao meu perfil!</h2>
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/7a6d3dd9-b785-4905-8fb7-f3e49ee4a19f"width="40"/>
+<img src="https://github.com/user-attachments/assets/6f5b36d0-d3a6-4145-b300-0c3a8f1c0263"width="40"/>
+
+
 
 <p align="center">Desenvolvedor Web com foco em Angular, Node.js e APIs.</p>
 
