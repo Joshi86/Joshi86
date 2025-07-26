@@ -33,10 +33,12 @@ Um site de venda de carros desenvolvido em ANGULAR, com login, responsividade, p
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e162b0fa-8594-4ac6-b8b9-da5b2d473c97"width="40"/>
+  <img src="
+https://github.com/user-attachments/assets/e7e68746-b744-4ed4-be60-421335a23909"width="40"/>
 </p>
 
 ---
+
 
 
 ### ⚙️ Tecnologias & Ferramentas
