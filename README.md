@@ -32,6 +32,11 @@ Um site de venda de carros desenvolvido em ANGULAR, com login, responsividade, p
   <img src="https://github.com/Joshi86/Desafio-Angular-PROJETO-FINAL/raw/main/preview.gif" width="600"/>
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/41f0ade4-e14e-462a-830c-a292c5e95e03"width="40"/>
+</p>
+
+
 ---
 
 ### ⚙️ Tecnologias & Ferramentas
