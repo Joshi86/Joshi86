@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2dff,100:00c4ff&height=200&section=header&text=Joshi%20&fontSize=40&fontColor=ffffff" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDC830,FFD200&height=200&section=header&text=Joshi86&fontSize=40&fontColor=000000" />
 
 <h2 align="center">Olá, eu sou o Joshi. Bem-vindo ao meu perfil!</h2>
 
@@ -59,6 +58,6 @@ Uma site focado em venda de veículos importados desenvolvido em ANGULAR, com lo
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c4ff,100:2d2dff&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FDC830,FFD200&height=200&section=header&text=Joshi86&fontSize=40&fontColor=000000" />
 </p>
 
