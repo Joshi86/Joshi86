@@ -59,6 +59,6 @@ Uma site focado em venda de veículos importados desenvolvido em ANGULAR, com lo
 ---
 
 <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2dff,100:00c4ff&height=200&section=header&text=Joshi86&fontSize=40&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d2dff,100:00c4ff&height=200&section=header&text=Obrigado pela atenção! &fontSize=40&fontColor=ffffff" />
 </p>
 
