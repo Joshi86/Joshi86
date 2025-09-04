@@ -21,7 +21,7 @@
 
 ---
 
-### 🔥 Destaque: Projeto Final Ford-Enter
+### 🔥 Destaque: Projeto Ford-Enter
 
 📌 **Desafio Angular - PROJETO FINAL**
 
